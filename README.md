@@ -9,7 +9,7 @@ Fullstack Developer & Automation Analyst focused on creating high-impact solutio
    
     - ### Featured Projects & Repositories
    
-    - - [TRH-Manager-App](https://github.com/marxb50/TRH-Manager-App)
+    - [Homestay-Operations-Dashboard](https://github.com/marxb50/Homestay-Operations-Dashboard)
       -   A React Single Page Application (SPA) built for comprehensive management (Financial, Auditing, and LFL comparisons) of rental operations. Features automated integrations with reports and messaging.
      
       -   - [Web-Opportunity-Bot](https://github.com/marxb50/Web-Opportunity-Bot)
