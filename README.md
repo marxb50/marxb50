@@ -19,3 +19,8 @@ Sistema de Ordens: Gestao completa de fluxos de trabalho.
 ---
 
 Contato: marxb50 (GitHub)
+
+
+### Conecte-se comigo
+
+Email: marxb50@gmail.com
