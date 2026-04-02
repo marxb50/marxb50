@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ola, eu sou o Marx!
 
-<!--
-**marxb50/marxb50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack focado em criar solucoes eficientes para gestao e automacao. Especialista em sistemas de ordem de servico e bots inteligentes.
 
-Here are some ideas to get you started:
+### Tecnologias e Habilidades
+Linguagens: TypeScript, Python, Java, JavaScript
+Frameworks: Node.js, React, Express
+Foco: Automacao Industrial, Gestao Empresarial, Bots de Monitoramento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Em destaque
+Web-Opportunity-Bot: Agente inteligente de monitoramento e automacao.
+Sistema de Ordens: Gestao completa de fluxos de trabalho.
+
+---
+Contato: marxb50 (GitHub)
