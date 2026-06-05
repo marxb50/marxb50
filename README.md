@@ -1,40 +1,46 @@
-# Hi, I'm Marx
+# Ola, eu sou Marx
 
-Full-stack developer and automation analyst focused on building systems that reduce operational friction, improve decision-making, and turn manual workflows into reliable products.
+Desenvolvedor full-stack e analista de automacao focado em criar sistemas que reduzem friccao operacional, melhoram a tomada de decisao e transformam fluxos manuais em produtos confiaveis.
 
-## What I build
-- Operations and workflow automation
-- Data extraction, scraping, and document pipelines
-- Internal dashboards and commercial management tools
-- Local AI, TTS, and production-assistant applications
+## Em destaque agora
+[![Live Apex3DPrint Compare](https://img.shields.io/badge/Live-Apex3DPrint%20Compare-0ea5e9?style=for-the-badge)](https://apex3dprint.com/compare/)
+[![Flagship Repo](https://img.shields.io/badge/Public%20Repo-traider-111827?style=for-the-badge)](https://github.com/marxb50/traider)
 
-## Core stack
+- [Apex3DPrint Compare](https://apex3dprint.com/compare/)  
+  Ferramenta de comparacao para impressoras 3D inspirada em UX de alto engajamento, com foco em SEO comercial, buyer intent, analytics por eventos, CTR e monetizacao segura.
+
+- [traider](https://github.com/marxb50/traider)  
+  Plataforma de simulacao de negociacao com scanner multi-mercado, memoria historica, backtesting, alertas por Telegram e operacao com FastAPI + Streamlit.
+
+## O que eu construo
+- Automacao de operacoes e fluxos de trabalho
+- Extracao de dados, scraping e pipelines de documentos
+- Paineis internos e ferramentas de gestao comercial
+- IA local, TTS e aplicacoes de assistencia a producao
+
+## Stack principal
 - Python, TypeScript, JavaScript, Java
 - FastAPI, React, Node.js, Express, Streamlit, Tailwind CSS
-- SQLite, Telegram bots, MCP servers, browser automation, workflow tooling
+- SQLite, bots de Telegram, servidores MCP, automacao de navegador e workflow tooling
 
-## Current flagship
-- [traider](https://github.com/marxb50/traider)  
-  Paper trading platform with multi-market scanning, historical memory, backtesting, Telegram alerts, and FastAPI + Streamlit operational tooling.
-
-## Selected public projects
+## Projetos publicos selecionados
 - [Voiceover-Generator-Engine](https://github.com/marxb50/Voiceover-Generator-Engine)  
-  Local voiceover workflow for event production, multilingual narration, and automation.
+  Workflow local de voiceover para producao de eventos, narracao multilingue e automacao.
 
 - [Official-Diary-Bot](https://github.com/marxb50/Official-Diary-Bot)  
-  Official gazette extraction pipeline with PDF parsing and Telegram monitoring alerts.
+  Pipeline de extracao de diario oficial com parsing de PDF e alertas de monitoramento via Telegram.
 
 - [Homestay-Operations-Dashboard](https://github.com/marxb50/Homestay-Operations-Dashboard)  
-  React dashboard for rental operations, audits, comparisons, reporting, and messaging automation.
+  Dashboard React para operacoes de hospedagem, auditorias, comparativos, relatorios e automacao de mensagens.
 
 - [Web-Opportunity-Bot](https://github.com/marxb50/Web-Opportunity-Bot)  
-  Hybrid Java and Python automation supervisor for lead capture workflows, deployment orchestration, and SEO operations.
+  Supervisor hibrido em Java e Python para captura de leads, orquestracao de deploy e operacoes de SEO.
 
 - [Digital-Booklet-Engine](https://github.com/marxb50/Digital-Booklet-Engine)  
-  Document automation engine for generating and managing digital technical booklets.
+  Motor de automacao documental para gerar e gerenciar booklets tecnicos digitais.
 
-## Focus areas
-- Automation for real-world operations
-- Productized internal tools
-- AI-assisted workflows
-- Data-driven reporting and monitoring
+## Areas de foco
+- Automacao para operacoes do mundo real
+- Ferramentas internas productized
+- Workflows assistidos por IA
+- Relatorios e monitoramento orientados por dados
