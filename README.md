@@ -1,26 +1,40 @@
-# Hi, I'm Marx!
+# Hi, I'm Marx
 
-Fullstack Developer & Automation Analyst focused on creating high-impact solutions that reduce operational costs and increase efficiency. Specialized in building systemic workflows, Home Stay commercial management, and intelligent data extraction.
+Full-stack developer and automation analyst focused on building systems that reduce operational friction, improve decision-making, and turn manual workflows into reliable products.
 
-### Tech Stack & Skills
-- Languages: TypeScript, Python, Java, JavaScript
-- - Web & Backend: React, Node.js, Express, Tailwind CSS
-  - - Core Focus: Industrial & Commercial Automation, Web Scraping, Document Management, Intelligent Bots.
-   
-    - ### Featured Projects & Repositories
-   
-    - - [Web-Opportunity-Bot](https://github.com/marxb50/Web-Opportunity-Bot)
-      -   - Hybrid operational supervisor (Java + Python) responsible for orchestrating lead capture ecosystems, automated deployments, and SEO operations.
-       
-          - - [Homestay-Operations-Dashboard](https://github.com/marxb50/Homestay-Operations-Dashboard)
-            -   - A React Single Page Application (SPA) built for comprehensive management (Financial, Auditing, and LFL comparisons) of rental operations. Features automated integrations with reports and messaging.
-             
-                - - [Official-Diary-Bot](https://github.com/marxb50/Official-Diary-Bot)
-                  -   - Data capture framework targeting Official Government Gazettes using Python and BeautifulSoup. Includes a PDF extraction pipeline and an automated Telegram notification engine.
-                   
-                      - - [Waste-Data-Analyzer](https://github.com/marxb50/Waste-Data-Analyzer)
-                        -   - System for analyzing waste and recycling data, providing insights into environmental impact and operational efficiency.
-                         
-                            - - [Digital-Booklet-Engine](https://github.com/marxb50/Digital-Booklet-Engine)
-                              -   - Engine for creating and managing digital booklets, streamlining the publication process for technical documentation.
-                                  - 
+## What I build
+- Operations and workflow automation
+- Data extraction, scraping, and document pipelines
+- Internal dashboards and commercial management tools
+- Local AI, TTS, and production-assistant applications
+
+## Core stack
+- Python, TypeScript, JavaScript, Java
+- FastAPI, React, Node.js, Express, Streamlit, Tailwind CSS
+- SQLite, Telegram bots, MCP servers, browser automation, workflow tooling
+
+## Current flagship
+- [traider](https://github.com/marxb50/traider)  
+  Paper trading platform with multi-market scanning, historical memory, backtesting, Telegram alerts, and FastAPI + Streamlit operational tooling.
+
+## Selected public projects
+- [Voiceover-Generator-Engine](https://github.com/marxb50/Voiceover-Generator-Engine)  
+  Local voiceover workflow for event production, multilingual narration, and automation.
+
+- [Official-Diary-Bot](https://github.com/marxb50/Official-Diary-Bot)  
+  Official gazette extraction pipeline with PDF parsing and Telegram monitoring alerts.
+
+- [Homestay-Operations-Dashboard](https://github.com/marxb50/Homestay-Operations-Dashboard)  
+  React dashboard for rental operations, audits, comparisons, reporting, and messaging automation.
+
+- [Web-Opportunity-Bot](https://github.com/marxb50/Web-Opportunity-Bot)  
+  Hybrid Java and Python automation supervisor for lead capture workflows, deployment orchestration, and SEO operations.
+
+- [Digital-Booklet-Engine](https://github.com/marxb50/Digital-Booklet-Engine)  
+  Document automation engine for generating and managing digital technical booklets.
+
+## Focus areas
+- Automation for real-world operations
+- Productized internal tools
+- AI-assisted workflows
+- Data-driven reporting and monitoring
