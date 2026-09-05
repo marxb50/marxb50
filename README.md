@@ -1,6 +1,6 @@
 # Marx Bruno
 
-**IT Support & Automation | Python | Playwright QA | TypeScript | Web Applications**
+**IT Support & Automation | Python | Playwright QA | AI Data Evaluation | TypeScript | Web Applications**
 
 ## Featured repositories
 
@@ -59,7 +59,7 @@ Suíte pública de testes end-to-end com Playwright, TypeScript e GitHub Actions
 
 ## Tecnologias
 
-`Python` · `TypeScript` · `JavaScript` · `HTML/CSS` · `Playwright` · `GitHub Actions` · `React` · `Next.js` · `FastAPI` · `SQLite` · `Git/GitHub` · `Excel/PDF automation` · `TTS` · `Audio processing`
+`Python` · `TypeScript` · `JavaScript` · `HTML/CSS` · `Playwright` · `GitHub Actions` · `React` · `Next.js` · `FastAPI` · `SQLite` · `Git/GitHub` · `Excel/PDF automation` · `TTS` · `Audio processing` · `AI data evaluation` · `Data validation`
 
 ## Como eu posso ajudar uma equipe
 
