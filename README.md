@@ -2,6 +2,12 @@
 
 **IT Support & Automation | Python | Playwright QA | TypeScript | Web Applications**
 
+## Featured repositories
+
+- [SUPER TRADER QUANT V23](https://github.com/marxb50/super-trader-quant-v23) — reproducible B3 paper-trading research, statistical validation, SQLite state, and a read-only dashboard.
+- [AI-TUTOR-CODEX](https://github.com/marxb50/AI-TUTOR-CODEX) — local-first tutoring workflows with PowerShell validation, Markdown/JSON state, reviews, exercises, and progress tracking.
+- [Colonist Public QA](https://github.com/marxb50/colonist-public-qa) — Playwright end-to-end tests and reproducible QA reports.
+
 Profissional de tecnologia em Parnamirim/RN, com experiência prática em suporte a usuários, automação de processos e construção de ferramentas para operações reais. Trabalho na SELIM, da Prefeitura de Parnamirim, e também desenvolvo soluções para demandas da SEMAD.
 
 Minha especialidade é entender um processo manual, encontrar os pontos de falha e transformá-lo em um fluxo mais rápido, rastreável e fácil de operar.
