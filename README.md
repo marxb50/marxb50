@@ -29,6 +29,8 @@ Sistema local usado na preparação de eventos para:
 
 O ambiente de produção atualmente organiza mais de **2.000 ativos de áudio**. O motor principal possui **5.797 linhas de Python** e usa processamento assíncrono para tornar o fluxo repetível e auditável.
 
+As auditorias registradas mostram a escala do trabalho: **334 apresentações ativas** no Calixta 2026, **326** no FAC16, **292** no Ballace Kids e **194 músicas e locuções validadas** no ODNEM26, com os relatórios finais preservando falhas, correções e arquivos ausentes para conferência.
+
 [Voiceover Generator Engine](https://github.com/marxb50/Voiceover-Generator-Engine) · [Multilingual TTS Studio](https://github.com/marxb50/Multilingual-TTS-Studio)
 
 ### Portal de Cadastramento de Novos Servidores
