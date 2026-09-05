@@ -7,6 +7,7 @@
 - [SUPER TRADER QUANT V23](https://github.com/marxb50/super-trader-quant-v23) — reproducible B3 paper-trading research, statistical validation, SQLite state, and a read-only dashboard.
 - [AI-TUTOR-CODEX](https://github.com/marxb50/AI-TUTOR-CODEX) — local-first tutoring workflows with PowerShell validation, Markdown/JSON state, reviews, exercises, and progress tracking.
 - [Colonist Public QA](https://github.com/marxb50/colonist-public-qa) — Playwright end-to-end tests and reproducible QA reports.
+- [Gestão Jurídica Local](https://github.com/marxb50/gestao-juridica-local) — local-first Electron/React/TypeScript operations app with SQLite, typed IPC, audit history, and tested workflows.
 
 Profissional de tecnologia em Parnamirim/RN, com experiência prática em suporte a usuários, automação de processos e construção de ferramentas para operações reais. Trabalho na SELIM, da Prefeitura de Parnamirim, e também desenvolvo soluções para demandas da SEMAD.
 
